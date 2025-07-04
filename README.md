@@ -48,5 +48,5 @@ This project uses structured query language (SQL) to perform deep data analysis 
 - **Mukul Singh Latwal**
 - 💼 Aspiring Data Analyst | SQL Enthusiast
 - 🌐 GitHub: [MukulSSrank](https://github.com/MukulSSrank)
-- 📧 Email: mukullatwal001@gmail.com
+
   
